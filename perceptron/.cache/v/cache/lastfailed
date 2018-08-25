@@ -1,0 +1,3 @@
+{
+  "test/perceptron_test.py::test_cost_and_grads": true
+}
